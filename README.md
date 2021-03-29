@@ -5,6 +5,8 @@ Verilog project of a simple microprocessor with peripherals such as mouse, VGA d
 * [Benjamin Young](https://github.com/benjamin-young)
 * [Zheyu You](https://github.com/ZheyuYou)
 
+The processor has its own ISA, containing 13 instructions and 2 registers.
+
 
 ## System diagram
 Full system diagram can be seen in the figure below:
