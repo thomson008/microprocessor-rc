@@ -5,7 +5,7 @@ Verilog project of a simple microprocessor with peripherals such as mouse, VGA d
 * [Benjamin Young](https://github.com/benjamin-young)
 * [Zheyu You](https://github.com/ZheyuYou)
 
-The processor has its own ISA, containing 13 instructions and 2 registers.
+The processor has its own ISA, containing 13 instructions and 2 registers. Software has been developed such that a 3x3 grid is displayed on the screen through VGA and the RC command is determined by mouse position on the screen (each grid square corresponds to a different command, see diagram in next section for more detail).
 
 
 ## System diagram
