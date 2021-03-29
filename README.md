@@ -1,5 +1,10 @@
 # microprocessor-rc
-Verilog project of a simple microprocessor with peripherals such as mouse, VGA display and IR transmitter. Can be run on Xilinx Basys 3 FPGA board with an additional IR module in order to control a RC car.
+Verilog project of a simple microprocessor with peripherals such as mouse, VGA display and IR transmitter. Can be run on Xilinx Basys 3 FPGA board with an additional IR module in order to control a RC car. The system was developed for [Digital Systems Laboratory](http://www.drps.ed.ac.uk/20-21/dpt/cxelee10023.htm) course at The University of Edinburgh by:
+
+* [Tomek Horszczaruk](https://github.com/thomson008)
+* [Benjamin Young](https://github.com/benjamin-young)
+* [Zheyu You](https://github.com/ZheyuYou)
+
 
 ## System diagram
 Full system diagram can be seen in the figure below:
